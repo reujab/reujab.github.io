@@ -1,0 +1,1 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500);#root{display:flex;flex-direction:column;height:100vh}#root>*{flex:auto 0}#root>.content{box-sizing:border-box;flex:1 0;margin:auto;max-width:750px;overflow:auto;padding:10px;width:100%}
